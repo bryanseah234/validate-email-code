@@ -12,6 +12,7 @@ code to validate emails that you input
 ## Instructions:
 1. Download the repo as a zip file
 2. Unzip the file
-3. Add your own list of emails into the python file
-4. Call the validate email function
-5. Run the script
+3. Store emails in text file
+4. Add python file to your folder containing text file
+5. Rename text file to 'emails.txt'
+6. Run the script
