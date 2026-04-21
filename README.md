@@ -1,4 +1,4 @@
-# Validate Email Code
+# Validate Email
 
 A Python script to bulk validate email addresses using format, DNS, and SMTP checks.
 
