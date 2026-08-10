@@ -24,7 +24,7 @@ This project provides a simple yet powerful email validation tool that reads ema
 
 ```bash
 # Clone the repository
-git clone https://github.com/bryanseah234/validate-email-code.git
+git clone https://github.com/theprawnorganisation/validate-email-code.git
 
 # Navigate to project directory
 cd validate-email-code
@@ -55,8 +55,4 @@ python validateemail.py
 
 ## License
 
-MIT License
-
----
-
-**Author:** <a href="https://github.com/bryanseah234">bryanseah234</a>
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
