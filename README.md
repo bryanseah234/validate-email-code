@@ -1,5 +1,10 @@
 # Email Validate
 
+Live demo: https://hongyime.github.io/emailvalidate/
+
+![Project screenshot](./screenshot.png)
+
+
 A Python script to bulk validate email addresses using format, DNS, and SMTP checks.
 
 ## Description
